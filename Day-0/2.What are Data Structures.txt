@@ -1,0 +1,62 @@
+DEFINITION
+A data structure is a named location that can be used to store and organize data.
+
+
+TYPES OF DATA STRUCTURES
+There are two types of data structures:
+Primitive data structure
+Non-primitive data structure
+
+
+Primitive Data structure:
+The primitive data structures are primitive data types.
+ The int, char, float, double, and pointer are the primitive data structures that can hold a single value.
+
+Non-Primitive Data structure:
+The non-primitive data structure is divided into two types:
+
+Linear data structure
+Non-linear data structure
+
+DIFFERENCE BETWEEN LINEAR AND NON LINEAR
+The arrangement of data in a sequential manner is known as a linear data structure.
+ The data structures used for this purpose are Arrays, Linked list, Stacks, and Queues.
+ In these data structures, one element is connected to only one another element in a linear form.
+
+When one element is connected to the 'n' number of elements known as a non-linear data structure.
+ The best example is trees and graphs.
+ In this case, the elements are arranged in a random manner.
+
+
+LIST
+The following list contains names of different types of data structures we will see.
+
+
+Topics:
+
+Array
+Linked List
+Stack
+Queue
+
+Binary Tree
+Binary Search Tree
+Heap
+Hashing
+Graph
+Matrix
+Misc
+Advanced Data Structure
+
+
+MAJOR OPERATIONS
+The major or the common operations that can be performed on the data structures are:
+
+
+Searching: We can search for any element in a data structure.
+Sorting: We can sort the elements of a data structure either in an ascending or descending order.
+Insertion: We can also insert the new element in a data structure.
+Updation: We can also update the element, i.e., we can replace the element with another element.
+Deletion: We can also perform the delete operation to remove the element from the data structure.
+
+
